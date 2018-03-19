@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zbtang/React-Native-ViewPager.git"
+    "url": "git+https://github.com/syq7970/React-Native-ViewPager.git"
   },
   "keywords": [
     "react-native-component",
@@ -27,10 +27,10 @@
     "tab-bar",
     "tab-view"
   ],
-  "author": "ZubinTang",
+  "author": "Su Yiquan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zbtang/React-Native-ViewPager/issues"
+    "url": "https://github.com/syq7970/React-Native-ViewPager/issues"
   },
-  "homepage": "https://github.com/zbtang/React-Native-ViewPager#readme"
+  "homepage": "https://github.com/syq7970/React-Native-ViewPager#readme"
 }
